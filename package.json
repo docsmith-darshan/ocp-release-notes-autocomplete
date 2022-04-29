@@ -1,13 +1,13 @@
 {
-  "name": "autocomplete-asciidoc",
-  "version": "0.1.2",
-  "description": "AsciiDoc language autocompletions",
+  "name": "ocp-release-notes-autocompletion",
+  "version": "0.0.0",
+  "description": "snippet autocompletions for ocp release notes",
   "keywords": [
-    "asciidoctor",
-    "asciidoc",
-    "autocomplete"
+    "Release Notes",
+    "Red Hat",
+    "OCP"
   ],
-  "repository": "https://github.com/asciidoctor/atom-autocomplete-asciidoc",
+  "repository": "https://github.com/docsmith-darshan/ocp-release-notes-autocomplete",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
